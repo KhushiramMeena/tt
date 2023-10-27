@@ -7,7 +7,7 @@ export const projectsSection: ProjectsSectionType = {
     projects: [
     {
         id: getId(),
-        name: 'beautiful animations',
+        name: 'beautiful ',
         url: 'https://beautiful-animations-kv.vercel.app/',
         repo: 'https://github.com/vatsalsinghkv/beautiful-animations',
         img: 'https://user-images.githubusercontent.com/68834718/265277125-da2a6e07-7cf6-411c-b55f-94e372aa6dc8.png',
